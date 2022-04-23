@@ -5,3 +5,5 @@ Hardware: AT90-1107 evaluation board + Arduino nano + SSD1306 OLED + rotary enco
 See the pinout from the source code.
 
 Lasse OH3HZB 2016
+
+![preview image](rf-atten-hzb16.jpg)
